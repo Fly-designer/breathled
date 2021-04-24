@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../breathled.srcs/sources_1/new/breathctrl.v" \
+"../../../../breathled.srcs/sources_1/new/pwm.v" \
+"../../../../breathled.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
