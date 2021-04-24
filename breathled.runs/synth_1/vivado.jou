@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Apr 24 12:37:43 2021
+# Process ID: 39364
+# Current directory: F:/Fly_work/CODE/learn/breathled/breathled.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: F:/Fly_work/CODE/learn/breathled/breathled.runs/synth_1/top.vds
+# Journal file: F:/Fly_work/CODE/learn/breathled/breathled.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
